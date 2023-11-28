@@ -1,0 +1,8 @@
+C:\Users\jerem\Documents\SharpDevelop Projects\ejemplo_grilla_img\ejemplo_grilla_img\bin\Debug\ejemplo_grilla_img.exe.config
+C:\Users\jerem\Documents\SharpDevelop Projects\ejemplo_grilla_img\ejemplo_grilla_img\bin\Debug\ejemplo_grilla_img.exe
+C:\Users\jerem\Documents\SharpDevelop Projects\ejemplo_grilla_img\ejemplo_grilla_img\bin\Debug\ejemplo_grilla_img.pdb
+C:\Users\jerem\Documents\SharpDevelop Projects\ejemplo_grilla_img\ejemplo_grilla_img\obj\Debug\ejemplo_grilla_img.csprojResolveAssemblyReference.cache
+C:\Users\jerem\Documents\SharpDevelop Projects\ejemplo_grilla_img\ejemplo_grilla_img\obj\Debug\ejemplo_grilla_img.MainForm.resources
+C:\Users\jerem\Documents\SharpDevelop Projects\ejemplo_grilla_img\ejemplo_grilla_img\obj\Debug\ejemplo_grilla_img.csproj.GenerateResource.Cache
+C:\Users\jerem\Documents\SharpDevelop Projects\ejemplo_grilla_img\ejemplo_grilla_img\obj\Debug\ejemplo_grilla_img.exe
+C:\Users\jerem\Documents\SharpDevelop Projects\ejemplo_grilla_img\ejemplo_grilla_img\obj\Debug\ejemplo_grilla_img.pdb
